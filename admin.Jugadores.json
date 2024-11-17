@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "6739586234b3352a60540a8c"
+  },
+  "Id_Jugador": "1001",
+  "Id_Equipo": "1",
+  "Nombre": "Rin",
+  "Apellido": "Itoshi",
+  "Edad": "18",
+  "Posicion ": "Delantero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a8d"
+  },
+  "Id_Jugador": "1002",
+  "Id_Equipo": "1",
+  "Nombre": "Jyubei",
+  "Apellido": "Aryu",
+  "Edad": "17",
+  "Posicion ": "Delantero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a8e"
+  },
+  "Id_Jugador": "1003",
+  "Id_Equipo": "1",
+  "Nombre": "Aoshi ",
+  "Apellido": "Tokimitsu",
+  "Edad": "20",
+  "Posicion ": "Defensa "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a8f"
+  },
+  "Id_Jugador": "1004",
+  "Id_Equipo": "1",
+  "Nombre": "Meguru",
+  "Apellido": "Bachira ",
+  "Edad": "24",
+  "Posicion ": "Portero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a90"
+  },
+  "Id_Jugador": "1005",
+  "Id_Equipo": "1",
+  "Nombre": "Yoichi",
+  "Apellido": "Isagi",
+  "Edad": "18",
+  "Posicion ": "Reserva "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a91"
+  },
+  "Id_Jugador": "1006",
+  "Id_Equipo": "2",
+  "Nombre": "Seishiro",
+  "Apellido": "Nagi",
+  "Edad": "17",
+  "Posicion ": "Delantero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a92"
+  },
+  "Id_Jugador": "1007",
+  "Id_Equipo": "2",
+  "Nombre": "Shouei",
+  "Apellido": "Chigiri",
+  "Edad": "16",
+  "Posicion ": "Delantero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a93"
+  },
+  "Id_Jugador": "1008",
+  "Id_Equipo": "2",
+  "Nombre": "Zantetsu",
+  "Apellido": "Tsurugi",
+  "Edad": "25",
+  "Posicion ": "Defensa "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a94"
+  },
+  "Id_Jugador": "1009",
+  "Id_Equipo": "2",
+  "Nombre": "Jin",
+  "Apellido": "Kiyora",
+  "Edad": "22",
+  "Posicion ": "Portero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a95"
+  },
+  "Id_Jugador": "1010",
+  "Id_Equipo": "2",
+  "Nombre": "Tabito",
+  "Apellido": "Karasu",
+  "Edad": "19",
+  "Posicion ": "Reserva "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a96"
+  },
+  "Id_Jugador": "1011",
+  "Id_Equipo": "3",
+  "Nombre": "Eita",
+  "Apellido": "Otoya",
+  "Edad": "18",
+  "Posicion ": "Delantero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a97"
+  },
+  "Id_Jugador": "1012",
+  "Id_Equipo": "3",
+  "Nombre": "Kenyu",
+  "Apellido": "Yukimiya",
+  "Edad": "19",
+  "Posicion ": "Delantero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a98"
+  },
+  "Id_Jugador": "1013",
+  "Id_Equipo": "3",
+  "Nombre": "Aiki",
+  "Apellido": "Himizu",
+  "Edad": "20",
+  "Posicion ": "Defensa "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a99"
+  },
+  "Id_Jugador": "1014",
+  "Id_Equipo": "3",
+  "Nombre": "Haruhiko",
+  "Apellido": "Yuzu",
+  "Edad": "22",
+  "Posicion ": "Portero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a9a"
+  },
+  "Id_Jugador": "1015",
+  "Id_Equipo": "3",
+  "Nombre": "Nijiro",
+  "Apellido": "Nanase",
+  "Edad": "21",
+  "Posicion ": "Reserva "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a9b"
+  },
+  "Id_Jugador": "1016",
+  "Id_Equipo": "4",
+  "Nombre": "Taiga",
+  "Apellido": "Tsunzaki",
+  "Edad": "23",
+  "Posicion ": "Delantero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a9c"
+  },
+  "Id_Jugador": "1017",
+  "Id_Equipo": "4",
+  "Nombre": "Reiji",
+  "Apellido": "Hiiragi",
+  "Edad": "21",
+  "Posicion ": "Delantero "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a9d"
+  },
+  "Id_Jugador": "1018",
+  "Id_Equipo": "4",
+  "Nombre": "Ikki",
+  "Apellido": "Niko",
+  "Edad": "24",
+  "Posicion ": "Defensa "
+},
+{
+  "_id": {
+    "$oid": "6739586234b3352a60540a9e"
+  },
+  "Id_Jugador": "1019",
+  "Id_Equipo": "4",
+  "Nombre": "Yo",
+  "Apellido": "Hiori",
+  "Edad": "19",
+  "Posicion ": "Portero "
+},
+{
+  "_id": {
+    "$oid": "673a1d23e534cfeede1991f9"
+  },
+  "Id_Jugador": "1025",
+  "Id_Equipo": "1",
+  "Nombre": "Sebastian",
+  "Apellido": "Rocha",
+  "Edad": "18",
+  "Posicion ": "Delantero "
+}]

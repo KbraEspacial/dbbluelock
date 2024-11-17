@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "67396eda34b3352a60540a9f"
+  },
+  "Id_Equipo": "1",
+  "Nombre": " Bastard München",
+  "Partidos Jugados": "3",
+  "Ganados": "2",
+  "Perdidos": "0",
+  "Empatados": "1"
+},
+{
+  "_id": {
+    "$oid": "67396eda34b3352a60540aa0"
+  },
+  "Id_Equipo": "2",
+  "Nombre": "F.C. Barcha",
+  "Partidos Jugados": "3",
+  "Ganados": "1",
+  "Perdidos": "0",
+  "Empatados": "2"
+},
+{
+  "_id": {
+    "$oid": "67396eda34b3352a60540aa1"
+  },
+  "Id_Equipo": "3",
+  "Nombre": "Paris X Gen",
+  "Partidos Jugados": "3",
+  "Ganados": "1",
+  "Perdidos": "1",
+  "Empatados": "1"
+},
+{
+  "_id": {
+    "$oid": "67396eda34b3352a60540aa2"
+  },
+  "Id_Equipo": "4",
+  "Nombre": "Ubers",
+  "Partidos Jugados": "3",
+  "Ganados": "0",
+  "Perdidos": "3",
+  "Empatados": "0"
+}]

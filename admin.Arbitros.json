@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "673a173285ec895af0ae3493"
+  },
+  "Id_Arbitro": "2051",
+  "Nombre": "Gurimu",
+  "Apellido": "Igarashi",
+  "Edad ": "35 "
+},
+{
+  "_id": {
+    "$oid": "673a173285ec895af0ae3494"
+  },
+  "Id_Arbitro": "2052",
+  "Nombre": "Zantetsu",
+  "Apellido": "Tsurugi",
+  "Edad ": "24 "
+},
+{
+  "_id": {
+    "$oid": "673a173285ec895af0ae3495"
+  },
+  "Id_Arbitro": "2053",
+  "Nombre": "Riji",
+  "Apellido": "Hiiragi",
+  "Edad ": "35 "
+},
+{
+  "_id": {
+    "$oid": "673a173285ec895af0ae3496"
+  },
+  "Id_Arbitro": "2054",
+  "Nombre": "Ranze",
+  "Apellido": "Kurona",
+  "Edad ": "21 "
+}]
