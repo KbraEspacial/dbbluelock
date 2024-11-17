@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "673a18ec85ec895af0ae3497"
+  },
+  "Id_partido": "a",
+  "Fecha": "18-oct",
+  "Hora": "8:00",
+  "Equipo_a": "1",
+  "Equipo_b": "2",
+  "Goles_a ": "3",
+  "Goles_b": "2",
+  "Ganador ": " Bastard München "
+},
+{
+  "_id": {
+    "$oid": "673a18ec85ec895af0ae3498"
+  },
+  "Id_partido": "b",
+  "Fecha": "24-oct",
+  "Hora": "10:00",
+  "Equipo_a": "3",
+  "Equipo_b": "4",
+  "Goles_a ": "1",
+  "Goles_b": "1",
+  "Ganador ": "Empate "
+},
+{
+  "_id": {
+    "$oid": "673a18ec85ec895af0ae3499"
+  },
+  "Id_partido": "c",
+  "Fecha": "30-oct",
+  "Hora": "14:00",
+  "Equipo_a": "1",
+  "Equipo_b": "3",
+  "Goles_a ": "2",
+  "Goles_b": "2",
+  "Ganador ": "Empate "
+},
+{
+  "_id": {
+    "$oid": "673a18ec85ec895af0ae349a"
+  },
+  "Id_partido": "d",
+  "Fecha": "1-nov",
+  "Hora": "19:00",
+  "Equipo_a": "2",
+  "Equipo_b": "4",
+  "Goles_a ": "0",
+  "Goles_b": "1",
+  "Ganador ": "Ubers "
+},
+{
+  "_id": {
+    "$oid": "673a18ec85ec895af0ae349b"
+  },
+  "Id_partido": "e",
+  "Fecha": "2-nov",
+  "Hora": "14:00",
+  "Equipo_a": "1",
+  "Equipo_b": "4",
+  "Goles_a ": "4",
+  "Goles_b": "0",
+  "Ganador ": " Bastard München "
+}]
